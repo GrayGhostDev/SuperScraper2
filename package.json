@@ -1,0 +1,9 @@
+{
+  "name": "gray-ghost-data-generator",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "python -m streamlit run main.py"
+  }
+}
